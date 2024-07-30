@@ -2,6 +2,7 @@
 ### Task 1 : Deploy a simple contract using Hardhat
 - First, Visit [Swisstronic Testnet Page](https://www.swisstronik.com/testnet2/dashboard)
 - open [Gitpod](https://gitpod.io/workspaces)
+- Create [Swisstronic wallet Extension](https://chromewebstore.google.com/detail/swisstronik/acfhdnikkbldnocbgmfginnmhjfkimjo?utm_source=own_web&utm_medium=official_comms&utm_campaign=general&utm_team=devs_front&utm_channel&utm_creative=0&utm_lang=en&utm_date=45216)
 - Click Continue With Github & Login
 - Complete Set up By Providing All the Data
 - Click on 'Cho0se VS Code as an Editor' and Continue
